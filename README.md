@@ -1,6 +1,6 @@
 # Apple-Vision-Clone
 
-A smooth, scroll-based front-end animation clone inspired by the Apple Vision Pro website. Built entirely using *HTML, **CSS, and **JavaScript*, this project replicates Apple’s sleek and immersive UI experience—without using any external libraries or frameworks.
+A smooth, scroll-based front-end animation clone inspired by the Apple Vision Pro website. Built entirely using HTML, CSS, and JavaScript, this project replicates Apple’s sleek and immersive UI experience without using any external libraries or frameworks.
 
 ##  Features
 
